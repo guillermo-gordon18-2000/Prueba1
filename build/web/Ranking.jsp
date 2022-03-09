@@ -112,7 +112,7 @@
                
                   <h5 class="card-title"><%=i+1 %> Estudiante:   <%=listae.get(i).getCorreo()   %>  <%=e.getApellido() %></h5>
                   <h6 class="card-subtitle mb-2 text-muted">Cedula    <%=e.getCedula()   %></h6>
-                  <p class="card-text">Puntuacion   <%=acumulador%> </p>
+                  <p class="card-text">Puntuacion   <%=acumulador%> </p>                 
                   
                 
                 </div>
